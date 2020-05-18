@@ -1,3 +1,8 @@
-# Sorting-Algorithms-Comparison What is the best sorting alogrithm ? 
+# Sorting Algorithms Speed Comparison - JAVA 
+
+This program implements all the sorting algorithms, calculates how many second it takes to sort given input for each algorithm in Java.
+
+At the end, it shows the fastest and the most successful algorithm.
+
 Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort , Heap Sort, Counting Sort , Radix Sort
-This Java program compare sorting algorithms based on their speed. The program calculates and shows how many second it takes to sort given input for each algorithm
+
